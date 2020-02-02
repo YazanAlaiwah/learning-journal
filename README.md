@@ -1,8 +1,6 @@
 ## Growth Mindset
 
-You can use the [editor on GitHub](https://github.com/YazanAlaiwah/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+for me its a new way to improve my skills how to learn from my failure and standup again and again with new stratgy to reach my goals and [Here](https://www.atlassian.com/blog/inside-atlassian/growth-mindsetd) you will find more about growth mindset
 
 ### Markdown
 
