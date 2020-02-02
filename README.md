@@ -10,6 +10,10 @@ for me its a new way to improve my skills how to learn from my failure and stand
 Format: ![Alt Text](https://discoverpraxis.com/wp-content/uploads/screenshot_2018-03-28_2054x1306.png)
 
 
+I think you should use an
+`<addr>` element here instead.
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
