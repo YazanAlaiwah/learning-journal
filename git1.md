@@ -11,4 +11,8 @@ every time you save/commit your changes it will make a new snapshots.
 
 ## what command in git 
 
-1. `git clone [url of the file]`: this comand will install the repo
+1. `git clone [url of the file]`: this command will install the repo.
+2. `git status`: this command will check from what you changed.
+3. `git add [file name]`: this command will add the changes.
+4. `git commit -m '[some massege to remmber the changes]'`: this command will save the changes with the commit that you write.
+5. `git push origin master`: this command will save your changes on the cloud.
