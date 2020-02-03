@@ -2,12 +2,11 @@
 
 ## What is Version controlr
 
-its standerde to **VC** that's allow you to visit several versions in your project and save changes which will make your mistake fixed easly.
+What is Version controlit's standard to **VC** allows you to visit several versions in your project and save changes which will make your mistake fixed easily.
 
 ## What is Git
 
-git is a Distributed Version Control systems stand for **DVCS** that will store your data in file system made up of snapshots.
-every time you save/commit your changes it will make a new snapshots.
+git is a Distributed Version Control systems stand for **DVCS** that will store your data in file system made up of snapshots.every time you save/commit your changes it will make new snapshots.
 
 ## what command in git 
 
@@ -16,3 +15,4 @@ every time you save/commit your changes it will make a new snapshots.
 3. `git add [file name]`: this command will add the changes.
 4. `git commit -m '[some massege to remmber the changes]'`: this command will save the changes with the commit that you write.
 5. `git push origin master`: this command will save your changes on the cloud.
+
