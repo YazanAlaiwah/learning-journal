@@ -27,4 +27,14 @@ example of css and html
  ```
 
  the above code will change the a tag and the body to like this
- ![css][https://miro.medium.com/max/3096/1*K-d334DjE69lgOseb9wlpg.png]
+ ![css](https://miro.medium.com/max/3096/1*K-d334DjE69lgOseb9wlpg.png)
+
+ ### How to conect css with html file
+
+you use link tag for it
+
+ ``` html
+     <link href="css/styles.css" type="text/css"    rel="stylesheet" /> 
+ ```
+
+ its contine href to tell html were to find the css file and type to tell html what the type of the file like css, js, or text and rel to specifies the relationship between the HTML page and the file it is linked to. 
