@@ -1,2 +1,0 @@
-# javascript
-first javascript task
