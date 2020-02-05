@@ -1,10 +1,9 @@
+# Javascript
 
+#### how JS make web pages more interactive
 
-
-
-
-
-
+You can use JavaScript to select any element, attribute, or text from an HTML pag and moify content and do some magic with program rules and react to events 
+  
 
 ## what is Expressions
 there's two type of expressions:
